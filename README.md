@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently building a chatbot for my **My developer Portfolio**
 
-- 🌱 I’m currently **How to contribute to open-source projects.**
+- 🌱 I’m currently **contributing to open-source projects.**
 
 - 👯 I’m looking to collaborate on **any cool MERN stack app**
 
