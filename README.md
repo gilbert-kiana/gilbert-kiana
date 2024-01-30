@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/kiana_kaiser" target="blank"><img src="https://img.shields.io/twitter/follow/kiana_kaiser?logo=twitter&style=for-the-badge" alt="kiana_kaiser" /></a> </p>
 
-- 🔭 I’m currently working on **My developer Portfolio**
+- 🔭 I’m currently building a chatbot for my **My developer Portfolio**
 
-- 🌱 I’m currently learning **How to contribute to open-source projects.**
+- 🌱 I’m currently **How to contribute to open-source projects.**
 
 - 👯 I’m looking to collaborate on **any cool MERN stack app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gilbert-kiana](https://github.com/gilbert-kiana)
 
 - 📫 Reach me at **gilbertintabo@gmail.com**
-
-- 📄 Resume [https://github.com/gilbert-kiana/Personal_portfolio_ik/blob/master/src/assets/Gilbert_Intabo_CV.pdf](https://github.com/gilbert-kiana/Personal_portfolio_ik/blob/master/src/assets/Gilbert_Intabo_CV.pdf)
 
 - ⚡ Fun fact **Lofi beats are Legendary**
 
